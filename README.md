@@ -6,10 +6,6 @@ Welcome to the documentation pages of the Uni++!
 
 You can find here detailed about the mini-app, from a high-level vision to low-level implementation decisions, a kind of Software Development Report, organized by discipline (as of RUP): 
 
-https://github.com/marcwferreira/FEUP_ESOF/edit/master/README.md
-
-https://github.com/marcwferreira/FEUP_ESOF/blob/master/docs/ProductVision.md
-
 * [Business modeling](https://github.com/marcwferreira/FEUP_ESOF/blob/master/docs/ProductVision.md) 
   * [Product Vision](https://github.com/marcwferreira/FEUP_ESOF/blob/master/docs/ProductVision.md)
 * [Requirements](https://github.com/marcwferreira/FEUP_ESOF/blob/master/docs/Requirements.md)

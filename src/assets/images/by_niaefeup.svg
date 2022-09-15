@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 490.2 96.72"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="by_niaefeup.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs28">
+    <rect
+       x="141.67773"
+       y="22.170942"
+       width="293.08904"
+       height="85.979995"
+       id="rect22717" />
+    <rect
+       x="94.63207"
+       y="8.6520749"
+       width="396.37318"
+       height="88.683768"
+       id="rect7078" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.8492674"
+     inkscape:cx="254.69546"
+     inkscape:cy="56.779242"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <g
+     fill="#75171e"
+     transform="translate(-348.71 -699.94)"
+     id="g22">
+    <path
+       d="m381 768.63a14.67 14.67 0 0 1 -13.55 9h-4a14.28 14.28 0 0 1 -5.71-1.15 14.66 14.66 0 0 1 -7.84-7.84 14.28 14.28 0 0 1 -1.15-5.71v-56.3h6v24.22a14.58 14.58 0 0 1 4.93-3.81 14.39 14.39 0 0 1 6.25-1.36h1.51a14.5 14.5 0 0 1 5.72 1.14 14.84 14.84 0 0 1 4.68 3.15 14.66 14.66 0 0 1 3.15 4.69 14.32 14.32 0 0 1 1.15 5.71v22.56a14.28 14.28 0 0 1 -1.14 5.7zm-4.9-28.63a8.42 8.42 0 0 0 -.68-3.39 8.64 8.64 0 0 0 -1.85-2.76 9.07 9.07 0 0 0 -2.76-1.86 8.6 8.6 0 0 0 -3.4-.68h-4a8.55 8.55 0 0 0 -3.41.69 8.7 8.7 0 0 0 -4.62 4.62 8.59 8.59 0 0 0 -.68 3.39v23.24a8.6 8.6 0 0 0 .68 3.4 9 9 0 0 0 1.86 2.76 8.64 8.64 0 0 0 2.76 1.85 8.39 8.39 0 0 0 3.39.69h4a8.44 8.44 0 0 0 3.4-.69 8.86 8.86 0 0 0 2.76-1.85 8.75 8.75 0 0 0 1.85-2.76 8.43 8.43 0 0 0 .68-3.4z"
+       id="path2" />
+    <path
+       d="m402.23 796.66h-5.81l8.88-24.31-16.21-45.71h6l13 37.89.19 2.59.2-2.59 13-37.89h6z"
+       id="path4" />
+  </g>
+  <text
+     xml:space="preserve"
+     id="text7076"
+     style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect7078)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#75171e;fill-opacity:1;stroke:none"
+     x="249.2879"
+     y="54.075466"
+     id="text14388"><tspan
+       sodipodi:role="line"
+       id="tspan14386"></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text22715"
+     style="font-style:normal;font-weight:normal;font-size:42.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect22717);fill:#75171e;fill-opacity:1;stroke:none"
+     transform="matrix(2.1781055,0,0,3.1221332,-255.59508,-100.46376)"><tspan
+       x="141.67773"
+       y="59.921903"
+       id="tspan90254"> <tspan
+   style="font-family:Z003;-inkscape-font-specification:Z003"
+   id="tspan90252">2LEIC05T2</tspan>
+</tspan><tspan
+       x="141.67773"
+       y="145.90042"
+       id="tspan90258"><tspan
+         dx="0 24.979185 17.541681 11.854172 25.250023 26.145851 16.729179"
+         id="tspan90256">Private</tspan></tspan></text>
+</svg>

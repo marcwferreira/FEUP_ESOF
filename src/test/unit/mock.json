@@ -1,0 +1,35 @@
+[
+  {
+    "upNumber":1,
+    "name":"Jose Aluno",
+    "ranking":"Estudante",
+    "image": "https://cdn.discordapp.com/attachments/951877140859723889/982663730468904990/unknown.png",
+    "attributes": {
+      "curso": "LEIC",
+      "idade" : "20"
+    }
+  },
+  {
+    "upNumber":2,
+    "name":"Jose Professor",
+    "ranking":"Professor",
+    "image": "https://cdn.discordapp.com/attachments/951877140859723889/982663730468904990/unknown.png",
+    "attributes": {
+      "UCs": "ESOF",
+      "idade" : "200",
+      "gabinete" : "B105",
+      "passatempo" : "Testes",
+      "email" : "joseProfessor@fe.up.pt"
+    }
+  },
+  {
+    "upNumber":3,
+    "name":"Jose Obama",
+    "ranking":"Reitor",
+    "image": "https://cdn.discordapp.com/attachments/951877140859723889/982663148916064336/obama.png",
+    "attributes": {
+      "apelido": "Aguia",
+      "faculdade" : "FEUP"
+    }
+  }
+]

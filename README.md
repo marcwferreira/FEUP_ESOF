@@ -18,7 +18,7 @@ https://github.com/marcwferreira/FEUP_ESOF/blob/master/docs/ProductVision.md
   * [Domain model](https://github.com/marcwferreira/FEUP_ESOF/blob/master/docs/Requirements.md#domain-model)
 * [Architecture and Design](https://github.com/marcwferreira/FEUP_ESOF/blob/master/docs/ArchitectureAndDesign.md)
   * [Logical architecture](https://github.com/marcwferreira/FEUP_ESOF/blob/master/docs/ArchitectureAndDesign.md#logical-architecture)
-  * [Physical architecture](hhttps://github.com/marcwferreira/FEUP_ESOF/blob/master/docs/ArchitectureAndDesign.md#physical-architecture)
+  * [Physical architecture](https://github.com/marcwferreira/FEUP_ESOF/blob/master/docs/ArchitectureAndDesign.md#physical-architecture)
   * [Prototype](https://github.com/marcwferreira/FEUP_ESOF/blob/master/docs/ArchitectureAndDesign.md#vertical-prototype)
 * [Implementation](https://github.com/marcwferreira/FEUP_ESOF/tree/master/src/lib)
 * [Unit Tests](https://github.com/marcwferreira/FEUP_ESOF/tree/master/src/test/unit/view/Pages)
